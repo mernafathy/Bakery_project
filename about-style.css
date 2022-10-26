@@ -1,0 +1,203 @@
+*
+{
+padding: 0%;
+margin: 0%;
+}
+#logo {
+    height: 25px;
+    width: 200px;
+    margin: 3%;
+    color: white;
+
+}
+
+.nav-bar {
+    top: 0;
+    list-style-type: none;
+    float: right;
+    padding: 10px;
+    margin: 20px;
+    
+    
+}
+
+.nav-bar:hover {
+    color: burlywood;
+}
+.link:hover
+{
+    color: burlywood;
+}
+.photo
+{
+    width: 100%;
+}
+
+.bakery_about {
+   
+
+    background-color: white;
+}
+
+.bakery-story {
+    width: 35%;
+    height: 30%;
+    float: right;
+    margin: 120px 300px 20px 100px;
+   
+}
+
+.cheif-photo
+ {
+     width: 30%;
+     height:65% ;
+     margin:70px 20px 20px 100px  ;
+   
+}
+.details
+{
+    
+    height: 85%;
+    background-color:whitesmoke;
+    
+}
+.Question
+{
+    
+    text-align: center;
+    margin-bottom: 70px;
+}
+.footer
+{
+    width: 85%;
+    margin: auto;
+}
+.first_p
+{
+    float: left;
+    width: 25%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    margin-right: 20px;
+    padding: 12px;
+}
+.clear_fix
+{
+    clear: both;
+}
+.second_p
+    {
+        float: left;
+        width: 25%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 40px;
+        margin-right: 20px;
+        padding: 12px;
+    }
+    .statistics
+    {
+        width: 100%;
+        height: 40%;
+        margin: auto;
+        background-color:rgb(138, 114, 53);
+    }
+    .accounts
+    {
+        
+        margin-top: 4%;
+        margin-left: 230px;
+        margin-right: 30px;
+        float:left;
+    }
+.like
+{
+    height: 15%;
+   float: left;
+    width:50px ;
+    
+}
+.location
+{
+    height: 15%;
+    float: left;
+    width:50px ;
+}
+.idea
+{
+    height: 15%;
+    float: left;
+    width:50px ;
+}
+.comments
+{
+    height: 15%;
+    float: left;
+    width:50px ;
+}
+
+.container {
+    height: 80%;
+    background-color:rgb(61, 50, 50);
+    color: rgb(136, 124, 124);
+}
+.footer2 {
+    margin-top: 100px;
+    float: left;
+    margin-left: 20px;
+    width: 20%;
+   padding: 25px;
+   height: 50%;
+}
+.head {
+    margin-left: 25px;
+}
+
+.icons2 {
+    margin-right: 20px;
+    
+}
+.footer-logo {
+    
+    height: 80%;
+
+    background-color: rgb(39, 36, 36);
+}
+#final-photo{
+    margin-top: 40px;
+    margin-left: 42%;
+}
+.last-p {
+    margin-top: 40px;
+    margin-left: 45%;
+    color: white;
+
+}
+#social-media {
+    margin-top: 5%;
+    margin-left: 45%;
+    color: white;
+
+}
+
+.facebook {
+    width: 50px;
+    float: left
+}
+
+.google {
+    width: 50px;
+    float: left
+}
+
+.linkedin {
+    width: 50px;
+
+    float: left
+}
+  
+
+
+
+

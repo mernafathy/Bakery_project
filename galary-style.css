@@ -1,0 +1,161 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+
+#logo {
+    height: 50px;
+    width: 200px;
+    margin: 3%;
+    color: white;
+
+}
+
+.nav-bar {
+    top: 0;
+    list-style-type: none;
+    float: right;
+    padding: 10px;
+    margin: 20px;
+    
+}
+
+.nav-bar:hover {
+    color: burlywood;
+}
+.link:hover
+{
+    color: burlywood;
+}
+.gallary
+{
+
+    text-align:center ;
+    margin-top: 10px;
+    height: 30%;
+    background-color:whitesmoke;
+    }
+    
+
+.head_gallary
+{
+
+    margin-bottom: 30px;
+}
+
+.first
+{
+    height: 30%;
+    width: 30%;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+.second
+{
+    height: 30%;
+    width: 30%;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+.third
+{
+    height: 30%;
+    width: 30%;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+.fourth
+{
+    height: 30%;
+    width: 30%;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+.fifth
+{
+    height: 30%;
+    width: 30%;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+.six
+{
+    height: 30%;
+    width:30%;
+    margin-left: 15px;
+     margin-right: 5px;
+}
+
+.Breads_images
+{
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+
+
+.container {
+    background-color: rgb(61, 50, 50);
+    color: rgb(136, 124, 124);
+    height: 100%;
+
+}
+
+.footer {
+    float: left;
+    margin-left: 20px;
+    width: 20%;
+    padding: 25px;
+    height: 52%;
+}
+
+.head {
+    margin-left: 25px;
+}
+
+
+.icons3 {
+    margin-right: 20px;
+}
+
+.footer-logo {
+
+    height: 60%;
+    background-color: rgb(39, 36, 36);
+}
+
+img {
+    margin-top: 40px;
+    margin-left: 42%;
+}
+
+.last-p {
+    margin-top: 40px;
+    margin-left: 45%;
+    color: white;
+
+}
+
+#social-media {
+    margin-top: 5%;
+    margin-left: 45%;
+    color: white;
+
+}
+
+.facebook {
+    width: 50px;
+    float: left
+}
+
+.google {
+    width: 50px;
+    float: left
+}
+
+.linkedin {
+    width: 50px;
+
+    float: left
+}

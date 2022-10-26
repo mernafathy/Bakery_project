@@ -1,0 +1,279 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+}
+#logo {
+    height: 50px;
+    width: 200px;
+    margin: 3%;
+    color: white;
+
+}
+
+.nav-bar {
+    top: 0;
+    list-style-type: none;
+    float: right;
+    padding: 10px;
+    margin: 20px;
+
+}
+
+.nav-bar:hover {
+    color: burlywood;
+}
+
+.link {
+    color: burlywood;
+}
+
+.home-page {
+    background-image: url(image/drew-coffman-1872.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    text-align: center;
+    color: white;
+    position: relative;
+
+}
+
+
+.headline {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+
+}
+
+.part1 {
+
+    padding: 15%;
+    text-align: center;
+}
+
+
+button {
+    margin: auto;
+    padding: 2%;
+    font-weight: bold;
+    font-size: large;
+}
+
+#button1 {
+    opacity: 0.4;
+    background-color: #8e7754;
+    color: black;
+}
+
+#button2 {
+    color: black;
+
+}
+
+#button1:hover {
+    background-color: rgb(253, 232, 4);
+}
+
+#button2:hover {
+    background-color: rgb(190, 178, 39);
+}
+
+.bakery-discription {
+    width: 100%;
+    height: 100%;
+
+    background-color: white;
+}
+
+.bakery-info {
+    width: 35%;
+    height: 30%;
+    float: right;
+
+    margin-top: 120px;
+    margin-right: 200px;
+    margin-left: 10px;
+
+}
+
+.photo {
+
+    width: 35%;
+    height: 500px;
+    margin-right: 20px;
+    margin-top: 70px;
+    margin-left: 180px;
+}
+
+.bakery-more-discription {
+    width: 100%;
+    height: 100%;
+
+    background-color: whitesmoke;
+}
+
+.bakery-location {
+    width: 30%;
+    height: 30%;
+    float: left;
+
+    margin-top: 170px;
+    margin-right: 100px;
+    margin-left: 180px;
+
+}
+
+.kitchin-photo {
+
+    width: 35%;
+    height: 500px;
+    margin-right: 20px;
+    margin-top: 70px;
+    margin-left: 120px;
+}
+
+#paragraph {
+    background-color: white;
+    text-align: center;
+}
+
+.threetypes {
+
+    width: 90%;
+    margin: auto;
+    margin-right: 10px;
+}
+
+.Bread {
+    float: left;
+    width: 25%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    margin-right: 10px;
+    padding: 12px;
+}
+
+.bread-type {
+    width: 100%;
+    margin-left: 10px;
+}
+
+.clear-fix {
+    clear: both;
+}
+
+.bread-type {
+    width: 100%;
+}
+
+.nameofbread {
+    text-align: center;
+    margin-left: 30px;
+}
+
+.list2 {
+    list-style-type: none;
+}
+
+.contact-details {
+    width: 100%;
+    height: 600px;
+    background-color: whitesmoke;
+
+
+}
+
+.contact_info {
+
+    float: left;
+    padding-right: 10px;
+
+    margin-right: 60px;
+    margin-left: 10px;
+    padding-top: 50px;
+    margin-bottom: 30px;
+}
+
+.Google-Maps {
+
+    width: 40%;
+    height: 80%;
+    margin-left: 60px;
+    margin-right: 40px;
+    padding-top: 50px;
+    margin-bottom: 30px;
+
+}
+
+.icons {
+    margin-right: 20px;
+}
+
+.icons2 {
+    margin-right: 20px;
+}
+
+.container {
+    background-color: rgb(61, 50, 50);
+    color: rgb(136, 124, 124);
+
+}
+
+.footer {
+    float: left;
+    margin-left: 20px;
+    width: 20%;
+    padding: 25px;
+    height: 50%;
+}
+
+.head {
+    margin-left: 25px;
+}
+
+.icons3 {
+    margin-right: 20px;
+}
+
+.footer-logo {
+
+    height: 50%;
+    background-color: rgb(39, 36, 36);
+}
+
+img {
+    margin-top: 40px;
+    margin-left: 42%;
+}
+
+.last-p {
+    margin-top: 40px;
+    margin-left: 45%;
+    color: white;
+
+}
+
+#social-media {
+    margin-top: 5%;
+    margin-left: 45%;
+    color: white;
+
+}
+
+.facebook {
+    width: 50px;
+    float: left
+}
+
+.google {
+    width: 50px;
+    float: left
+}
+
+.linkedin {
+    width: 50px;
+
+    float: left
+}
